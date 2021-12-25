@@ -2,6 +2,11 @@
 
 
 
+# Não sei o que é para fazer, podes ajudar-me?
+Relê o enunciado e discute primeiro com o teu colega de grupo. Podes também perguntar no grupo do curso.
+Os professores têm também hórarios de dúvidas e podes contactá-los por email.
+Se mesmo assim não conseguires, então diz-me, que, dentro dos possiveis, tentarei ajudar.
+
 ## Para que serve a função `inode_location` no `ffs_inode.c`
 Esta função recebe o numero do inode e vai calcular em que bloco do disco se encontra. 
 Se tens 2 blocos para inodes, terás 96 inodes no total. 32 grandes e 64 pequenos. 

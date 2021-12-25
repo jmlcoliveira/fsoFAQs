@@ -1,3 +1,7 @@
-# Resposta às perguntas mais frequentes do mini projeto de FSO
+# FAQs do mini projeto de FSO
 
 ## 1
+fsfsdfsdfsdfsd
+
+## 2
+fsdfsfsdfs

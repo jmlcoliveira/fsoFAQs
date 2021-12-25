@@ -25,7 +25,8 @@ Se não forem encontradas `howMany` entradas contiguas livres, é retornado `-EN
 
 ## 5. O meu programa devia de estar a funcionar, mas dá erro não sei porquê.
 Se usas WSL, muda as linhas da função `makeargv` de `argv[ntokens] = strtok(s, " \t\n");` para `argv[ntokens] = strtok(s, " \r\t\n");`<br>
-Experimenta de novo. Senão funcionar, é porque tens algum bug no teu código.
+Experimenta de novo.<br>
+Se ainda não funcionar, é porque tens algum bug no teu código.
 
 ## 6. Qual a ordem que recomendas para fazer o trabalho?
 A ordem que o professor recomenda.

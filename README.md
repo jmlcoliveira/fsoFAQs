@@ -35,3 +35,6 @@ A ordem que o professor recomenda.
 ## 7. O que é suposto meter na linha `static struct dir ` do `bfs_dir.c`?
 Podes ter um array de `dir` com duas posições, uma para guardares a root e outra para guardar uma diretoria que não a root.<br>
 Depois cria também uma variável que aponta (ex: `*cwd`) para a `dir` que estás a usar. Ou a root ou a other.
+
+## 8. Estão a aparecer valores estranhos quando faço print dos bmaps.
+Muito provavelemente estás a ler e/ou escrever no bloco errado do disco.

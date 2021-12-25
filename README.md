@@ -3,8 +3,8 @@
 
 
 ## 1. Não sei o que é para fazer, podes ajudar-me?
-Relê o enunciado e discute primeiro com o teu colega de grupo. Podes também perguntar no grupo do curso.
-Os professores têm também hórarios de dúvidas e podes contactá-los por email.
+Relê o enunciado e discute primeiro com o teu colega de grupo. Podes também perguntar no grupo do curso.<p>
+Os professores têm também hórarios de dúvidas e podes contactá-los por email.<br>
 Se mesmo assim não conseguires, então diz-me, que, dentro dos possiveis, tentarei ajudar.
 
 ## 2. Para que serve a função `inode_location` no `ffs_inode.c`?

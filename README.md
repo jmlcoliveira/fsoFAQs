@@ -20,3 +20,7 @@ Experimenta de novo. Senão funcionar, é porque tens algum bug no teu código.
 
 ## Qual a ordem que recomendas para fazer o trabalho?
 A ordem que o professor recomenda
+
+## O que é suposto meter na linha `static struct dir ` do `bfs_dir.c`?
+Podes ter um array de `dir` com duas posições, uma para guardares a root e outra para guardar uma diretoria que não a root.
+Depois cria também uma variável que aponta (ex: `*cwd`) para a `dir` que estás a usar. Ou a root ou a other.

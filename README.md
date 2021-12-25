@@ -7,7 +7,7 @@ Esta função recebe o numero do inode e vai calcular em que bloco do disco se e
 Se tens 2 blocos para inodes, terás 96 inodes no total. 32 grandes e 64 pequenos. 
 Se mandas o inode 0, significa que está no bloco 2 (inodes grandes vão do 0 ao 31 e ficam no bloco 2) e o offset é 0. 
 Se mandas o 32, significa que já está no bloco 3 (inodes pequenos vão do 32 ao 95 e ficam no bloco 3), com offset 0.
-Os blocos variam consoante o numero de blocos que estão destinados para inodes
+Os blocos variam consoante o numero de blocos que estão destinados para inodes.
 
 
 ## Para que serve a função `bytemap_getfree` no `ffs_bytemap.c`
@@ -19,7 +19,7 @@ Se usas WSL, muda as linhas da função `makeargv` de `argv[ntokens] = strtok(s,
 Experimenta de novo. Senão funcionar, é porque tens algum bug no teu código.
 
 ## Qual a ordem que recomendas para fazer o trabalho?
-A ordem que o professor recomenda
+A ordem que o professor recomenda.
 
 ## O que é suposto meter na linha `static struct dir ` do `bfs_dir.c`?
 Podes ter um array de `dir` com duas posições, uma para guardares a root e outra para guardar uma diretoria que não a root.

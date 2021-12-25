@@ -15,8 +15,9 @@ Se mandas o 32, significa que já está no bloco 3 (inodes pequenos vão do 32 a
 Os blocos variam consoante o numero de blocos que estão destinados para inodes.
 
 ## 3. Para que serve a função `bytemap_getfree` no `ffs_bytemap.c`?
-Nesse metodo tens que criar um algoritmo que vai ver se um disco tem howMany entradas contiguas livres e devolves o indice da primeira posição
+Nesse metodo tens que criar um algoritmo que vai ver se um disco tem `howMany` entradas contiguas livres e devolves o indice da primeira posição
 Uma entrada está vazia se o bitmap estiver a 0.
+Se não forem encontradas `howMany` entradas contiguas livres, é retornado `-ENOSPC`, que é um código de erro que está definido `bfs_errno.h`.
 
 ## 4. O meu programa devia de estar a funcionar, mas dá erro não sei porquê.
 Se usas WSL, muda as linhas da função `makeargv` de `argv[ntokens] = strtok(s, " \t\n");` para `argv[ntokens] = strtok(s, " \r\t\n");`

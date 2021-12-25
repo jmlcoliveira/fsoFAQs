@@ -14,6 +14,9 @@ Os blocos variam consoante o numero de blocos que estão destinados para inodes
 Nesse metodo tens que criar um algoritmo que vai ver se um disco tem howMany entradas contiguas livres e devolves o indice da primeira posição
 Uma entrada está vazia se o bitmap estiver a 0.
 
-## O meu programa devia de estar a funcionar, mas dá erro
-Muda as linhas da função `makeargv` de `argv[ntokens] = strtok(s, " \t\n");` para `argv[ntokens] = strtok(s, " \r\t\n");`
+## O meu programa devia de estar a funcionar, mas dá erro não sei porquê.
+Se usas WSL, muda as linhas da função `makeargv` de `argv[ntokens] = strtok(s, " \t\n");` para `argv[ntokens] = strtok(s, " \r\t\n");`
 Experimenta de novo. Senão funcionar, é porque tens algum bug no teu código.
+
+## Qual a ordem que recomendas para fazer o trabalho?
+A ordem que o professor recomenda

@@ -12,7 +12,7 @@ Não devias de ter deixado para a última.<br>
 É possível, mas vai ser bastante dificil.
 
 ## 3. O meu programa devia de estar a funcionar, mas dá erro não sei porquê.
-Se estás numa versão 32 bits do linux, troca para uma de 64.<br>
+Se estás numa versão 32 bits do linux, troca para uma de 64. Parece que não é possivel compilar em 32 bits.<br>
 Se usas WSL, muda as linhas da função `makeargv` de `argv[ntokens] = strtok(s, " \t\n");` para `argv[ntokens] = strtok(s, " \r\t\n");`<br>
 Experimenta de novo.<br>
 Se ainda não funcionar, é porque tens algum bug no teu código.

@@ -43,3 +43,6 @@ Depois cria também uma variável que aponta (ex: `*cwd`) para a `dir` que está
 
 ## 8. Estão a aparecer valores estranhos quando faço print dos bmaps.
 Muito provavelemente estás a ler e/ou escrever no bloco errado do disco.
+
+## 9. É necessário usar o cwd e como o inicializo, no dir.c?
+Sim, é necessário tendo em conta o código já feito pelos professores. Inicializas como um pointer do tipo dir, ou seja, static struct dir *cwd.

@@ -24,7 +24,7 @@ Se mandas o inode 0, significa que está no bloco 2 (inodes grandes vão do 0 ao
 Se mandas o 32, significa que já está no bloco 3 (inodes pequenos vão do 32 ao 95 e ficam no bloco 3), com offset 0.<br>
 Exemplo:
 Se recebes o inode 15, sabes que é grande. <br>
-Para calcular o bloco divides 15/(ninodes_grandes_por_bloco * (n_de_blocos/2)) que vai dar 0,qqlcoisa, truncado dá 0. Ao 0 tens que somar o offset de onde começa a area dos inodes. <br>
+Para calcular o bloco divides 15/ninodes_grandes_por_bloco que vai dar 0,qqlcoisa, truncado dá 0. <br>
 Para calcular o offset dentro do bloco, calculas o resto da divisão de 15%ninodes_grandes_por_bloco.<br>
 De forma parecida fazes para os pequenos, com alguma lógica adicional que deixo para tu pensares.<br>
 Os blocos variam consoante o numero de blocos que estão destinados para inodes.

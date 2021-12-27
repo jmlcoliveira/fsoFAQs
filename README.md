@@ -6,7 +6,7 @@
 Relê o enunciado e discute primeiro com o teu colega de grupo. <br>
 Podes também perguntar no grupo do curso.<br>
 Os professores têm também hórarios de dúvidas e podes contactá-los por email.<br>
-Horários de dúvidas do professor Paulo Lopes ([Link Zoom](https://videoconf-colibri.zoom.us/j/86853779631?pwd=dzIyelREWmtGZ3o2WWlvVzNCVjFrZz09)):<br>
+Horários de dúvidas do professor Paulo Lopes ([Link Zoom](https://videoconf-colibri.zoom.us/j/86853779631?pwd=dzIyelREWmtGZ3o2WWlvVzNCVjFrZz09)):
 - 2ª-feira, 27/12 às 15h<br>
 - 3ª-feira, 28/12 às 17h<br>
 - 4ª-feira, 29/12 às 17h (e não às 15h)<br>

@@ -3,8 +3,14 @@
 
 
 ## 1. Não sei o que é para fazer, podes ajudar-me?
-Relê o enunciado e discute primeiro com o teu colega de grupo. Podes também perguntar no grupo do curso.<br>
+Relê o enunciado e discute primeiro com o teu colega de grupo. <br>
+Podes também perguntar no grupo do curso.<br>
 Os professores têm também hórarios de dúvidas e podes contactá-los por email.<br>
+Horários de dúvidas do professor Paulo Lopes ([Link Zoom]https://videoconf-colibri.zoom.us/j/86853779631?pwd=dzIyelREWmtGZ3o2WWlvVzNCVjFrZz09):<br>
+- 2ª-feira, 27/12 às 15h<br>
+- 3ª-feira, 28/12 às 17h<br>
+- 4ª-feira, 29/12 às 17h (e não às 15h)<br>
+- 5ª-feira, 30/12 às 15h (horário habitual)<br>
 Se mesmo assim não conseguires, então diz-me, que, dentro dos possiveis, tentarei ajudar.
 
 ## 2. Falta um dia para a entrega, dá para fazer tudo?

@@ -1,0 +1,1 @@
+Antes de fazerem cada teste, apaguem o disco.

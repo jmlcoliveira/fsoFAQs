@@ -11,7 +11,6 @@ Horários de dúvidas do professor Paulo Lopes ([Link Zoom](https://videoconf-co
 - 3ª-feira, 28/12 às 17h<br>
 - 4ª-feira, 29/12 às 17h (e não às 15h)<br>
 - 5ª-feira, 30/12 às 15h (horário habitual)<br>
-Se mesmo assim não conseguires, então diz-me, que, dentro dos possiveis, tentarei ajudar.
 
 ## 2. Falta um dia para a entrega, dá para fazer tudo?
 Não devias de ter deixado para a última.<br>

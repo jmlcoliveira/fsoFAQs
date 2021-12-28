@@ -64,7 +64,7 @@ Muito provavelemente estás a ler e/ou escrever no bloco errado do disco.
 Sim, é necessário tendo em conta o código já feito pelos professores. Inicializas como um pointer do tipo dir, ou seja, static struct dir *cwd.
 
 ## 12. O que é para fazer no bfs_dir.c e bfs_file.c?
-Esta é a parte opcional, puxem pela cabeça. Não posso dizer tudo.
+Esta é a parte opcional. Não posso dizer tudo. Algumas coisas já estão explicas acima.
 
 <p>
 <hr>
